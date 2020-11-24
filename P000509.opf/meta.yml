@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD181172
   title: གཡག་ཟེའི་སྐུ་ཆུང་ལྔ་པ་གར་དབང་བསྟན་འཛིན་བཟང་པོའི་གཏེར་ཆོས།
-  volume: ''
+  volume:
+    ef01c7c8182b49d7baa1d3a254406245:
+      image_group_id: I4CZ74477
+      title: Volume 1 of sku 'bum gdan rabs/
+      volume_number: 1
+      total_pages: 620
   author: ''
+ebook_metadata:
+  title: གཡག་ཟེའི་སྐུ་ཆུང་ལྔ་པ་གར་དབང་བསྟན་འཛིན་བཟང་པོའི་གཏེར་ཆོས།
+  author: ''
+  sku: P000509
+  cover: cover.jpg
+  layers:
+  - pagination
