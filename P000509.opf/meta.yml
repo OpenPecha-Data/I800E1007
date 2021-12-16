@@ -1,7 +1,7 @@
 id: P000509
 initial_creation_type: ocr
 created_at: 24/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-16 15:43:37.629445
 source_metadata:
   id: bdr:W1PD181172
   title: གཡག་ཟེའི་སྐུ་ཆུང་ལྔ་པ་གར་དབང་བསྟན་འཛིན་བཟང་པོའི་གཏེར་ཆོས།
@@ -12,3 +12,5 @@ source_metadata:
       title: Volume 1 of sku 'bum gdan rabs/
       volume_number: 1
       total_pages: 620
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
